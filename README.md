@@ -1,4 +1,4 @@
-# shairport-sync-metadata
+# shairport-sync-metadata-reader-basic
 A small python3 script which will print the current song and artist information when streaming over shairport-sync (airplay)
 
 Point the script towards the metadata file as created by [shairport-sync](https://github.com/mikebrady/shairport-sync) and this script will print a dictionary of song name, artist and album.
